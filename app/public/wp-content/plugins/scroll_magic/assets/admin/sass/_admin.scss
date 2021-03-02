@@ -1,0 +1,22 @@
+@import "bbhelp";
+@import "components";
+@import "editor";
+@import "ranger";
+@import "toggle-switch";
+
+.bb_sm_icon {
+	background: url('../img/bb_sm.png')!important;
+	background-size: cover!important;
+}
+.bb_sm_imagesequence_icon {
+	background: url('../img/imagesequence.png')!important;
+	background-size: cover!important;
+}
+.bb_sm_imagesgroup {
+	background: url('../img/bb_sm_imagesgroup.png')!important;
+	background-size: cover!important;
+}
+.bb_sm_single_image_icon {
+	background: url('../img/bb_sm_single_image_icon.png')!important;
+	background-size: cover!important;
+}
